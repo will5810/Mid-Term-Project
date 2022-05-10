@@ -181,7 +181,7 @@ a:hover{
 
 
 #profile-picture{
-    width: 400px;
+    width: 200px;
     margin-right: 60px;
 }
 
@@ -300,7 +300,7 @@ a[title="Flaticon"]:hover{
 }
 
 .thumbnail{
-    width: 600px;
+    width: 400px;
 }
 
 .article-info{
@@ -309,6 +309,7 @@ a[title="Flaticon"]:hover{
 
 .article-name{
     font-family: 'Noto Sans KR', sans-serif;
+    
     font-size: 50px;
     margin-top: 0px;
     margin-bottom: 30px;
@@ -354,14 +355,14 @@ a[title="Flaticon"]:hover{
 }
 
 #name2-1{
-    text-align: right;
+    text-align: center;
     position: relative;
     left: 0px;
     margin-bottom: 0px;
 }
 
 #name2-2{
-    text-align: right;
+    text-align: center;
     position: relative;
     left: 100px;
 }
